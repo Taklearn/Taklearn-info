@@ -3,7 +3,7 @@
 ## About Us
 Taklearn is dedicated to advancing front-end and back-end programming education through innovative teaching methods and community collaboration. We specialize in empowering individuals with the skills needed to thrive in the tech industry and are committed to providing high-quality learning opportunities.
 
-- 💡 Our mission: To provide accessible and comprehensive training in front-end development.
+- 💡 Our mission: To provide accessible and comprehensive training in front-end ,Back-end development.
 - 👥 Collaborate with us: We welcome partnerships with industry professionals and organizations.
 - 🌍 Locations: Iran
 
