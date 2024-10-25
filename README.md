@@ -26,8 +26,6 @@ Here are some of the technologies and areas we specialize in:
 We are always open to collaboration and partnerships. Whether you're interested in contributing to our courses or looking for consulting services, we’d love to hear from you!
 
 - 📧 Contact us: [Taklearnacademy@gmail.com]
-- 💼 Follow us on [LinkedIn] | [Twitter] | [Other Social Media]
-- 🔗 Visit our website: [Your Website URL]
 
 ## Social Media
 Stay connected with us on our social platforms:
