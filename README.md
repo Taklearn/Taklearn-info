@@ -30,4 +30,4 @@ We are always open to collaboration and partnerships. Whether you're interested 
 ## Social Media
 Stay connected with us on our social platforms:
 
-- [Instagram](https://www.instagram.com/taklearn?igsh=cmNpdjNyamoxbDFj)
+- [Instagram](https://www.instagram.com/taklearn)
